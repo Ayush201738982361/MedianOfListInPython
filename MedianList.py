@@ -1,4 +1,3 @@
-import statistics 
 a = []
 size = int(input("Enter The Size Of The List:"))
 for i in range(size):
