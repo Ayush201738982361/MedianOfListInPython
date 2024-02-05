@@ -19,6 +19,3 @@ def median(a):
                 result=first_middle/ second_middle
                 print
             median(a)
-            
-                    
-        
